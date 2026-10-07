@@ -29,3 +29,12 @@ Analizlerin tekrarlanabilirliği için aşağıdaki R kütüphaneleri kullanılm
 ## 📊 Veri Kaynağı
 - **Veri Seti:** GEO Veri Tabanı - [GSE131907](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE131907)
 - **Tür:** Tek hücre RNA dizileme (scRNA-seq), 10x Genomics
+# TÜSEB B2 Projesi Ön Çalışma: Tek Hücre RNA-seq Analiz Kodları
+
+> 🔗 **Kaynak Kodlar:** [GitHub Deposundaki R Kodlarını Görüntülemek İçin Tıklayın](https://github.com/durualtinel0111/On-Calisma-scRNAseq)
+
+### Analiz Betikleri:
+- 📄 [01_CD8Tex_Hedef_Gen_DE_Analizi.R](https://github.com/durualtinel0111/On-Calisma-scRNAseq/blob/main/01_CD8Tex_Hedef_Gen_DE_Analizi.R)
+- 📄 [02_M2_Makrofaj_Hedef_Gen_DE_Analizi.R](https://github.com/durualtinel0111/On-Calisma-scRNAseq/blob/main/02_M2_Makrofaj_Hedef_Gen_DE_Analizi.R)
+
+---
